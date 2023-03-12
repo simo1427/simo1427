@@ -4,7 +4,7 @@ I am a second-year bachelor student in Computer Science and Engineering at TU De
 
 ## Research experience
 
-🔭 I am currently working on developing a way to apply the bilateral filter using an approximation as part of my Honours programme in the university.
+🔭 I am currently working on developing a new way to apply the bilateral filter using an approximation as part of my Honours programme in the university.
 
 I have contributed to the following publications:
 
